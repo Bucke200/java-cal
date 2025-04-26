@@ -9,6 +9,11 @@ A simple console-based calculator application written in Java.
   - Temperature: Celsius ↔ Fahrenheit
   - Currency: INR ↔ USD, EUR, GBP (hard-coded rates)
 
+## Screenshots
+![Screenshot 1](assets/1.png)
+![Screenshot 2](assets/2.png)
+![Screenshot 3](assets/3.png)
+
 ## Prerequisites
 - Java JDK 8 or higher
 
